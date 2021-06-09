@@ -1,10 +1,9 @@
-#include <iostream>
 
-using namespace std;
+int helloWindow();
 
 int main()
 {
-	cout << "hello world" << endl;
+	helloWindow();
 
 	return 0;
 }

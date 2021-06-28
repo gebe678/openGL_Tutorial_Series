@@ -1,9 +1,10 @@
-
-int helloWindow();
+//int helloWindow();
+//int helloTriangle();
+int helloShader();
 
 int main()
 {
-	helloWindow();
+	helloShader();
 
 	return 0;
 }

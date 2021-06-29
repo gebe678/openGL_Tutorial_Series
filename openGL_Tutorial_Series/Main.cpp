@@ -1,6 +1,8 @@
 //int helloWindow();
 //int helloTriangle();
-int helloShader();
+ int helloShader();
+
+#include "Shader.h";
 
 int main()
 {
